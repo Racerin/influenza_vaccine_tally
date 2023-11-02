@@ -1,0 +1,11 @@
+# Virtual environment
+*venv
+
+# Environment Variables
+.env
+
+# Noise files
+*__pycache__
+
+#Visual Studio Code config files
+launch.json
